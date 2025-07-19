@@ -74,7 +74,7 @@ Based on the analysis, the following actions are recommended:
 
 ## ✍️ Author
 
-- **[Your Name]**
+- **[Om Patil]**
 - **LinkedIn:** `www.linkedin.com/in/om-patil-data-science`
   
 *(Feel free to reach out with any questions or feedback!)*
