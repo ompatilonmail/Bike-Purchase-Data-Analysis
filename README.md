@@ -52,6 +52,14 @@ A customer's existing lifestyle and commitments are stronger predictors of a pur
 
 ---
 
+**Live Dashboard Screenshot:**
+
+
+
+*(This is an example image. To add your own, upload your dashboard screenshot to a site like [Imgur](https://github.com/ompatilonmail/Bike-Purchase-Data-Analysis/blob/main/Bike%20Sale%20Dashboard.png?raw=true) and paste the direct image link here.)*
+
+---
+
 ## 🚀 Strategic Recommendations
 
 Based on the analysis, the following actions are recommended:
